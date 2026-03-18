@@ -16,7 +16,7 @@ Smart Emergency Response & Dispatch System is a platform that helps citizens qui
 - HTML
 - CSS
 - MySQL (Database)
-- python
+- Dart
   
 
 ## ⚙️ Main Features
